@@ -19,7 +19,7 @@ $body = @"
          {          
              `"type`": `"passwords`",
              `"attributes`": {
-                `"password-category-id`":`"311537`"
+                `"password-category-id`":`"pass_type_id`"
              }
          }
  }
