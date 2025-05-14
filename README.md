@@ -1,4 +1,4 @@
-The PowerShell script has been created to update configurations in bulk from the backend. Using this script, partners can update the following in the backend via their API:
+The PowerShell script has been created to update passwords in bulk from the backend. Using this script, partners can update the following in the backend via their API:
 
 Update Passwords information
 Create Embedded password
